@@ -11,6 +11,10 @@ redirect_from:
 
 # About
 
+이거슨 소개페이지
+
+루트 폴더에 about.md를 수정합시다 ㅎㅅㅎ
+
 <!--author-->
 
 ## Hydejack
