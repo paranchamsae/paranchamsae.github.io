@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+url:                   https://paranchamsae.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -32,12 +32,12 @@ description:           >
 tagline:               이게 왜 안되지 의 향연
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [windows, web, testing]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-#logo:                  /assets/img/logo.png
+logo:                  /assets/img/profile2.jpeg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -50,14 +50,15 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
-  - title: Test
-    url: /test/
+  - title: Develop
+    url: /develop/
+  # - title:             Example
+  #   url:               /example/
+  # - title:             Documentation
+  #   url:               /docs/
+   
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -70,7 +71,7 @@ legal:
 #    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022. All rights reserved.
+copyright:             © 2022. Daniel Kim, All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -91,7 +92,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg   # 이거슨 사이드바 영역에 배경화면 경로 ~ assets/img 폴더에 추가
+accent_image:          /assets/img/side-background.jpg   # 이거슨 사이드바 영역에 배경화면 경로 ~ assets/img 폴더에 추가
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
