@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Test
+title: Subcategory1
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: test
+slug: subcategory1
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  설명따위 없음 테스트중
+  서브 카테고리 1번 테스트
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink: /test/
+permalink: /develop/git-category1
 ---
