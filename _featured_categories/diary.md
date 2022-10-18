@@ -10,7 +10,7 @@ slug: diary
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  개발 외 이것저것 잡담
+  파워 외향인의 개발 외 이것저것 잡담 💁
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
