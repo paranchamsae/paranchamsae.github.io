@@ -17,7 +17,7 @@ url:                   https://paranchamsae.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  ko
+lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 paran_chamsae
@@ -61,6 +61,7 @@ menu:
   # - title:             Documentation
   #   url:               /docs/
    
+future: true
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
