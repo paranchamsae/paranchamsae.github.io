@@ -16,17 +16,11 @@ permalink: /develop/
 
 - [Web]{:.heading.flip-title}
 
-## testing
 
-- [Testing]{:.heading.flip-title}  // 이거슨 테스트 영역
+## Etc
+- [Git/Github-page]{:.heading.flip-title} --- Git과 Github-page 관련
 
-## git
-- [Subcategory1]{:.heading.flip-title} --- 서브 카테고리 1번
-- [Subcategory2]{:.heading.flip-title} --- 서브 카테고리 2번
-- [Testing]{:.heading.flip-title} --- 또 테스트
 
 [windows]: /develop/windows
 [web]: /develop/web
-[testing]: /develop/testing
-[Subcategory1]: /develop/git-category1
-[Subcategory2]: /develop/git-category2
+[Git/Github-page]: /develop/git
