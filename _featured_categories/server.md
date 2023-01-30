@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Subcategory2
+title: Server
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: subcategory2
+slug: server
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  서브 카테고리 2번 테스트
+  IIS, apache부터 EC2까지 :)
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink: /develop/git-category2
+permalink: /develop/server
 ---

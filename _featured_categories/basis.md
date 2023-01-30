@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Git/Github-page
+title: Basis
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: git
+slug: concepts
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  너는 왜 때문에 맨날 헷갈리는 거시냐 🚀
+  찐으로 알아야 하는 개발자들의 기본 개념정리 :)
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink: /develop/git
+permalink: /develop/concepts/basis
 ---

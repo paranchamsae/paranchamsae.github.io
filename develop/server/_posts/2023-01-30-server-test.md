@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 221017 윈도우 개발 카테고리 분리
+title: 230130 server
 sitemap: false
 hide_last_modified: true
 ---

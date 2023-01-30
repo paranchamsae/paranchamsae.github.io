@@ -1,13 +1,11 @@
 ---
 layout: post
-title: test post
-description: >
-  하나만 제발 ㅠ_ㅠ
+title: Develop-Database
 sitemap: false
 hide_last_modified: true
 ---
 
-# 얘가 제목이 되는건가요?
+<!-- # 얘가 제목이 되는건가요? -->
 
 이거슨 새 문서
 

@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Web
+title: Tips
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: web
+slug: tips
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  javascript, php 등 어쩌면 프론트엔드에 가까울 수 있는 이야기 😇
+  한 줄기 빛 같았던(?) 꿀팁을 다시 기록!
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink: /develop/web
+permalink: /develop/tips
 ---

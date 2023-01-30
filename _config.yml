@@ -20,7 +20,7 @@ url:                   https://paranchamsae.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 paran_chamsae
+title:                 paranchamsae
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -32,7 +32,7 @@ description:           >
 tagline:               이게 왜 안되지? 와<br/> 이게 된다고? 의 대환장 콜라보 🧑‍💻 🤦
 
 # A list of keywords for your blog
-keywords:              [windows, web, subcategory1, subcategory2]
+keywords:              [windows, codemanage, git, web, dotnet, dotnetcore, database, mysql, mssql]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
