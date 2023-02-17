@@ -67,9 +67,9 @@ redirect_from:
 
 - C/C++와 외부 광학 장비의 SDK를 연동하여 고객사에 납품하는 일을 해 봤어요.
 - C#과 Windows API를 사용해 사내 업무 지원 클라이언트를 운영 해 봤어요.
-- 백엔드 개발도 해 봤는데요, DB는 MySQL을 사용했고 php, javascript를 사용 해 봤어요.
+- MySQL과 사용했고 php, javascript(바닐라 스크립트)를 사용 해 백오피스 서비스를 담당 해 봤어요.
 - 클라우드 버킷(AWS S3, Oracle ObjectStorage) SDK를 연동해 데이터를 백업하는 프로그램도 운영 해 봤네요!
-- 지금은 닷넷코어 백엔드 개발자로 일개미를 하고 있어요 😇
+- 지금은 ASP.NET과 MSSQL을 사용하는 백엔드 개발자로 일개미를 하고 있어요 😇
 
 <!-- 
 ## 🚀 projects
