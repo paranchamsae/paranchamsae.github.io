@@ -30,5 +30,5 @@ permalink: /develop/
 [database]: /develop/database
 [server]: /develop/server
 [codemanage]: /develop/codemanage
-[basis]: /develop/concepts/basis
+[basis]: /develop/basis
 [tips]: /develop/tips
